@@ -21,7 +21,8 @@
 | **Challenge Name** | Binary Digits |
 
 ### 📝 Description
-> *"Salin atau tulis deskripsi tantangan dari CyLab Security Academy di sini."*
+> *"This file doesn't look like much... just a bunch of 1s and 0s. But maybe it's not just random noise. Can you recover anything meaningful from this? Download the file here
+."*
 
 ---
 
@@ -30,8 +31,11 @@
 Pada tantangan ini, kita diberikan data berupa deretan angka biner (`0` dan `1`).
 
 Langkah awal analisis:
-1. Memeriksa pola dan panjang data biner yang diberikan.
-2. Mengelompokkan deretan biner menjadi per-8 bit (1 byte) untuk dikonversi ke karakter teks ASCII.
+1. Memeriksa isi file
+2. Copy semua teks ASCII untuk didecrypt di CyberChef
+3. Isi teks berubah menjadi gambar yang terdapat flag
+
+FLAG: academy{h1dd3n_1n_th3_b1n4ry_5a7375c5}
 
 ```text
 01000011 01011001 01001100 01000001 01000010 ...
