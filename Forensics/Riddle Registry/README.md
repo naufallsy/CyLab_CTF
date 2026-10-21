@@ -41,5 +41,3 @@ Langkah awal analisis:
 
 FLAG: academy{puzzl3d_m3tadata_f0und!_3cc7cea9}
 
-```text
-01000011 01011001 01001100 01000001 01000010 ...
