@@ -23,19 +23,21 @@
 ### 📝 Description
 > *"This file seems broken... or is it? Maybe a couple of bytes could make all the difference. Can you figure out how to bring it back to life? Download the file here
 .
-> "*Flag: 
+> 
+>HINT:
+> 1. Try checking the file’s header.
+> 2. JPEG
+> 3. Tools like xxd or hexdump can help you inspect and edit file bytes.
+."*
 ---
 
 ## 🔍 Step 1: Reconnaissance & Analysis
 
-Pada tantangan ini, kita diberikan data berupa deretan angka biner (`0` dan `1`).
+Pada tantangan ini, kita diberikan file berupa txt.
 
 Langkah awal analisis:
-1. Memeriksa isi file
-2. Copy semua teks ASCII untuk didecrypt di CyberChef
-3. Isi teks berubah menjadi gambar yang terdapat flag
+1. Memeriksa isi file menggunakan perintah: xxd file
+2. Lalu karena diberi clude bahwa file asli merupakan JPEG maka kita ubah biner baris pertama di depan menjadi FF D8 menggunakan perintah: hexedit file
+3. Setelah itu kita buka filenya dengan perintah: xdg-open file
 
-FLAG: academy{h1dd3n_1n_th3_b1n4ry_5a7375c5}
-
-```text
-01000011 01011001 01001100 01000001 01000010 ...
+FLAG: academy{r3st0r1ng_th3_by73s_69066302}
