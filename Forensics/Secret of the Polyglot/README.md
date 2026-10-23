@@ -39,4 +39,4 @@ Langkah awal analisis:
 flag2of2-final.pdf stdout (stdout digunakan supaya langsung keluar di terminal outputnya)
 3. Keluar bagian depan flag: academy(f1u3n7_
 
-FLAG: academy(f1u3n7_1n_pn9_&_pdf_96385309}
+FLAG: academy{f1u3n7_1n_pn9_&_pdf_96385309}
