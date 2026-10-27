@@ -4,7 +4,7 @@
 
 ![Category](https://img.shields.io/badge/Category-Forensics-blue?style=for-the-badge&logo=target)
 ![Platform](https://img.shields.io/badge/Platform-CyLab_Academy-red?style=for-the-badge&logo=security)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-green?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Solved-success?style=for-the-badge)
 
 </div>
