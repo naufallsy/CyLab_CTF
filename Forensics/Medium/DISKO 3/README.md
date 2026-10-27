@@ -17,7 +17,7 @@
 | :--- | :--- |
 | **Platform** | CyLab Security Academy |
 | **Category** | Forensics |
-| **Difficulty** | Easy |
+| **Difficulty** | Medium |
 | **Challenge Name** | DISKO 3 |
 
 ### 📝 Description
